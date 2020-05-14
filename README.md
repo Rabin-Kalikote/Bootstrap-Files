@@ -6,3 +6,4 @@ This includes:
 - JQuery Library
 
 These files are here so that my YouTube Viewers can download Bootstrap directly from one palce to use them locally.
+**Happy learning, Happy coding!**
